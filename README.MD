@@ -9,7 +9,7 @@ To get started with this template, follow these steps:
 ## 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/blaiseAI/ionic-starter-with-login-signup.git
+git clone https://github.com/dromanf/QhayPaHoy.git
 ```
 
 ## 2. Install the dependencies:
